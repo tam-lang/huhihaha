@@ -1,0 +1,4 @@
+{
+  "watch": ["http", "db"],
+  "ext": "js,ejs"
+}
